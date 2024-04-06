@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611721345477",
+    "project_id": "uni-planner-rchixm",
+    "storage_bucket": "uni-planner-rchixm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611721345477:android:f06f3ebe50997bd51333ac",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jXj9xe0vSpNWw-jdpf-AATlGNcJWvwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
